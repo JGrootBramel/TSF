@@ -1,2 +1,6 @@
 tensorflow==2.19.0
 pandas==2.3.0
+matplotlib
+scikit-learn
+numpy
+statsmodels
