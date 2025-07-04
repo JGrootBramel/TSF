@@ -4,3 +4,4 @@ matplotlib
 scikit-learn
 numpy
 statsmodels
+sktime==0.38.2
